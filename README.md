@@ -1,4 +1,4 @@
-# MATLAP-project
+# MATLAB-project
 
 MATLAP project with simple GUI for encryption and decryption data using some algorithms with simple GUI
 
